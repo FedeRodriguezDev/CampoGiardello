@@ -248,7 +248,7 @@ a.btn_1,
 .btn_1 {
   border: none;
   color: #fff;
-  background: #978667;
+  background: #185159;
   outline: none;
   cursor: pointer;
   display: inline-flex;
@@ -1166,7 +1166,7 @@ a.box_cat_rooms:hover .background-image {
 .box_facilities i {
   font-size: 62px;
   font-size: 3.875rem;
-  color: #978667;
+  color: #185159;
 }
 .box_facilities h3 {
   font-size: 21px;
